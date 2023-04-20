@@ -38,7 +38,7 @@ In the future I'd like to find out what key words it ranks top 5 for
 
 ## Author
 
-- Website - [Add your name here](https://martinnkemakolam.github.io/second-react-app-portfolio/#Home)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/martinnkemakolam)
-- Twitter - [@yourusername](https://www.twitter.com/MartinNkemakol1)
+- Website - [Martin](https://martinnkemakolam.github.io/second-react-app-portfolio/#Home)
+- Frontend Mentor - [@Martin nkemakolam](https://www.frontendmentor.io/profile/martinnkemakolam)
+- Twitter - [@MartnNkemakol1](https://www.twitter.com/MartinNkemakol1)
 
